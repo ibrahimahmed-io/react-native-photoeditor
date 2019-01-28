@@ -11,7 +11,7 @@ React Native android wrapper for Image editing SDK powered by DS Photo Editor SD
 2. Append the following lines to `android/settings.gradle`:
    ```
    include ':react-native-photoeditor'
-   project(':react-native-photoeditor').projectDir = new File(rootProject.projectDir, 	'../node_modules/react-native-photoeditor/android')
+   project(':react-native-photoeditor').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-photoeditor/android')
    ```
 3. Insert the following lines inside the dependencies block in `android/app/build.gradle`:
    ```
