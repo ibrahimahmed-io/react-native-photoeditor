@@ -1,6 +1,7 @@
 {
     "name": "react-native-photoeditor",
     "version": "1.0.0",
+    "author": "Ibrahim Ahmed <ibrahimtorbany.dev@gmail.com>",
     "scripts": {
         "start": "node node_modules/react-native/local-cli/cli.js start",
         "test": "jest"
