@@ -1,2 +1,2 @@
 # react-native-photoeditor
-React Native android wrapper for Image editing software powered by DS Photo Editor SDK
+React Native android wrapper for Image editing SDK powered by DS Photo Editor SDK
